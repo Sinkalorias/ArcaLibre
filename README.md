@@ -18,7 +18,7 @@ style: |
 
 ## CICLO DE DESARROLLO DE APLICACIONES WEB
 
-### mANUEL Valero De Aguilar 
+### Manuel Valero De Aguilar 
 
 #### IES Virgen del Carmen
 
