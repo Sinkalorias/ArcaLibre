@@ -14,31 +14,27 @@ style: |
     }
 ---
 
-# **TITULO DEL PROYECTO**
+# **PROYECTO FINAL DE GRADO**
 
-## CICLO
+## CICLO DE DESARROLLO DE APLICACIONES WEB
 
-### Nombre y Apellidos  
+### mANUEL Valero De Aguilar 
 
 #### IES Virgen del Carmen
 
-Abril 2023
+Junio 2025
 
 ---
 
 # Datos del proyecto
 
-Aquí damos más información, esto es una presentación
+Mi proyecto se va a basar en una página web de adopción de animales abandonados de diferentes razas, tamaños y géneros
 
 :satisfied:
 
 --- 
 
-### Otra diapositiva con título más pequeño
 
-Esto es otra diapositiva, separamos las diapositivas por tres guiones. 
-
----
 
 
 
